@@ -6,25 +6,37 @@
     margin-top: 100px;
     
 }
+/* .vikscirc{
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+} */
 .lefthome{
     width: 50%;
     height: 100vh;
+    
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
+   
 }
 .righthome{
     width: 50%;
-    height: 100vh;
+    height: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
+    /* border: red 1px solid; */
 
 }
 .righthome img{
+    position: relative;
+    top: 200px;
     width: 50%;
-    height: 700px;
+    border-radius: 50%;
+    height: 500px;
+     border: 1px solid drop-shadow( 2px 2px 20px rgb(52, 67, 71));;
     filter: drop-shadow( 2px 2px 20px rgb(52, 67, 71));
 }
 

@@ -55,6 +55,7 @@ function Home() {
         </div>
       </div>
       <div className="righthome">
+        
         <img src={man} alt="" />
       </div>
 
