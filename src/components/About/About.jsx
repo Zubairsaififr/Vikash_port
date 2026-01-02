@@ -173,15 +173,16 @@ function About() {
               <div className="Skills">
                 <h1>Skills</h1>
                 <ul>
-                  <li>Administration </li>
-                  <li>Recruitment </li>
-                  <li>Scanning and Sourcing</li>
-                  <li>Maintaining KPIs </li>
-                  <li>Staffing and Performance Management  </li>
-                  <li>Time management  </li>
-                  <li>Salary Negotiation </li>
-                  <li>Salary Negotiation </li>
-                  <li>Salary Negotiation </li>
+                  <li>Battery Enclosure Design (EV / ESS / UPS)</li>
+                  <li>SolidWorks (3.5+ Years) – Sheet Metal, Assemblies, Drawings </li>
+                  <li>IP-Rated Enclosures (IP65 / IP67 – concept & implementation)</li>
+                  <li>Sheet Metal (CRCA, Aluminium, Extrusions) </li>
+                  <li>Thermal & Structural Design Considerations</li>
+                  <li>Design for Manufacturability (DFM) & Assembly (DFA) </li>
+                  <li>BOM Creation & Production Drawings</li>
+                  <li>Forming Tools (Emboss, Louvers, Vents) </li>
+                  <li>GD&T (ISO standards)</li>
+                  <li>Prototype Support & Design Validation</li>
 
                 </ul>
               </div>
