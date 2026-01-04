@@ -34,6 +34,7 @@ tl.from("nav ul li",{
        <Link to="home" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Home</li></Link>
        <Link to="sum" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>About</li> </Link>
        <Link to="projects" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Projects</li></Link>
+       <Link to="Exce" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Experience</li></Link>
        <Link to="contact" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Contact</li></Link>
        
     </ul>
@@ -49,6 +50,7 @@ tl.from("nav ul li",{
        <Link to="home" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Home</li></Link>
        <Link to="sum" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>About</li> </Link>
        <Link to="projects" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Projects</li></Link>
+       <Link to="Exce" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Experience</li></Link>
        <Link to="contact" activeClass ='active' spy={true} smooth={true} duration={1500}> <li>Contact</li></Link>
        
     </ul>
