@@ -36,7 +36,9 @@ function Home() {
       <div className="lefthome">
         <div className="homedetails">
           <div className="line1">I'm</div>
-          <div className="line2">Vikash Rajput</div>
+            <div className="line2">Vikash Rajput</div>
+            <div className="line2">Vikash Rajput</div>
+            <div className="line2">Vikash Rajput</div>
           <div className="line3">
             <Typewriter
               words={["Mechanical Design Engineer", "SolidWorks Engineer", "Battery / BESS / ESS Engineer",]}
