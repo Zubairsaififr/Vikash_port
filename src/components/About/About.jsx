@@ -161,7 +161,7 @@ function About() {
 
                 </ul>
               </div>
-              {/* <div className="Certification">
+              <div className="Certification">
                 <h1>Certification</h1>
                 <ul>
                   <li> <span>Ducat Sector 63 Noida</span></li>
@@ -169,7 +169,7 @@ function About() {
                   <li>Solid Work <span> Cadd Center Ghaziabad</span></li>
 
                 </ul>
-              </div> */}
+              </div>
               <div className="Skills">
                 <h1>Skills</h1>
                 <ul>

@@ -47,7 +47,7 @@ function Project({title,image}) {
   })
   return (
     <div id='projects'>
-        <h1 id='pera'>Python Developer</h1>
+        <h1 id='pera'>Work Experience</h1>
         <div className="slider">
             <Card title="Mini Store" image={mini}/>
 
