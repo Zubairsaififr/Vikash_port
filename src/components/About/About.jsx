@@ -189,10 +189,10 @@ function About() {
               <div className="personalinfo">
                 <h1>Personal Information</h1>
                 <ul>
-                  <li><span>Name</span>: Azuka Gazi</li>
-                  <li><span>D.O.B</span>: 14-Dec-2000</li>
-                  <li><span>Gender</span>: Female</li>
-                  <li><span>Language Known</span>: English, Hindi,Urdu</li>
+                  <li><span>Name</span>: Vikash Rajput</li>
+                  <li><span>D.O.B</span>: 08-Aug-2000</li>
+                  <li><span>Gender</span>:Male</li>
+                  <li><span>Language Known</span>: English, Hindi</li>
                 </ul>
               </div>
             </div>
