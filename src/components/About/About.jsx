@@ -165,7 +165,7 @@ function About() {
                 <h1>Certification</h1>
                 <ul>
                   <li> <span>Ducat Sector 63 Noida</span></li>
-                  <li>AR/VR Development By IIT Mundi <span>Ducat Sector 63 Noida</span></li>
+                  <li>Solid Works<span> 63</span></li>
                   <li>Solid Work <span> Cadd Center Ghaziabad</span></li>
 
                 </ul>
